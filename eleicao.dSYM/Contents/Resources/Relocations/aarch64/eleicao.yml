@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lucasfiorentin/Documents/git/Trabalho_alg1_utfpr/eleicao'
+relocations:     []
+...
