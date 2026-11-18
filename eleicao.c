@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define NUM_CANDIDATOS 6
-#define MIN_VOTOS 10
+#define MIN_VOTOS 100
 
 int main() {
 
